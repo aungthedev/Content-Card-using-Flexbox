@@ -1,3 +1,4 @@
 # Content-Card-using-flexbox-
-content card made with html and css using flexbox position .
+content card made with html and css using flexbox position.
+
 ![Content Card](screen.png)
